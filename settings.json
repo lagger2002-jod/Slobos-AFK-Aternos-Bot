@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lagsmpggs.aternos.me",
-    "port": 48501,
+    "ip": "lagsmpggs.mcsh.gg",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 520,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to THE LAGGER 2.0",
         "I like to play Minecraft!"
       ]
     },
