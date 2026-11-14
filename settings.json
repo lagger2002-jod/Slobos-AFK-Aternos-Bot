@@ -8,7 +8,7 @@
   "server": {
     "ip": "lagsmpggs.mcsh.gg",
     "port": 19132,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 520,
       "messages": [
-        "I'm a regular player",
         "Subscribe to THE LAGGER 2.0",
-        "I like to play Minecraft!"
+        "Join Discord for Updates"
       ]
     },
     "chat-log": true,
