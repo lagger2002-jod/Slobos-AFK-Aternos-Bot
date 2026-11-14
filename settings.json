@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lagsmpsgg.aternos.me",
+    "ip": "dragonfish.aternos.host",
     "port": 54020,
     "version": "1.21.11",
     "try-creative": false
